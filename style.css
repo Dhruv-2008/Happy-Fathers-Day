@@ -1,0 +1,39 @@
+body{
+    background-size: 1000px;
+}
+
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 23px;
+    box-shadow: 5px 6px 20px rgb(218, 128, 44);
+}
+
+.heading:hover{
+    box-shadow: 5px 6px 20px rgb(231, 122, 20);;
+}
+
+#l1{
+    font-size: 17px;
+    color: black;
+}
+
+.crf{
+    text-align: center;
+    line-height: 3;
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+  }
+
+  #album{
+    width:650px;
+    height:500px;
+    padding:5px;
+    border-style:solid;
+    border-radius:80px;
+  }
+
+#nyan-btn{
+    margin: 60px;
+}
